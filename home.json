@@ -1,8 +1,8 @@
 ﻿{
 "daohang":{"name":"禁闻导航","url":"http://254.dt4.c3rbex.cf/"},
 "daili":[
-  {"name":"动态网","url":"http://254.dt4.c3rbex.cf/"},
-  {"name":"无界","url":"http://254.dt4.c3rbex.cf/2"}
-  {"name":"明慧网","url":"http://254.dt4.c3rbex.cf/3"}
+  {"name":"动态网","url":"e3c90d217a08c2752079d4c3c97588d976ea3972785e228e80049a18f7"},
+  {"name":"无界","url":"3ff60d8b4de09463769a80ef4918a28f1a0109f8b5e5675781ed01f8cd8c"},
+  {"name":"明慧网","url":"f0dbf5a168f578f22978aaf7c83a0c2fc87c91513a67e844ed99036b1bd3"},
   ]
 }
