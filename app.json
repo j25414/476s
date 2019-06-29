@@ -1,0 +1,16 @@
+{
+  "name": "You2PHP",
+  "description": "基于PHP的YouTube代理应用",
+  "website": "https://github.com/gfw-breaker/",
+  "repository": "https://github.com/gfw-breaker/you2php-heroku",
+  "env": {
+    "APIKEY": {
+      "description": "Youtube API V3 KEY",
+      "value": "AIzaSyDOy40AKnOUvotuyMJ8Fk9guYbecB3ZUXo"
+    },
+    "PLAYLIST_ID": {
+      "description": "推荐内容 Playlist ID",
+      "value": "PLLOFsS_xM0Rx0FvJ11eS-Mxomo4xLJUD_"
+    }
+  }
+}
